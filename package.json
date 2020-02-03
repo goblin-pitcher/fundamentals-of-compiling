@@ -1,0 +1,19 @@
+{
+  "name": "fundamentals-of-compiling",
+  "version": "1.0.0",
+  "description": "study notes for fundamentals-of-compiling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goblin-pitcher/fundamentals-of-compiling.git"
+  },
+  "author": "xiao.wei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goblin-pitcher/fundamentals-of-compiling/issues"
+  },
+  "homepage": "https://github.com/goblin-pitcher/fundamentals-of-compiling#readme"
+}
